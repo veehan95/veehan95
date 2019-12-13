@@ -1,0 +1,9 @@
+{
+    "shoping": [
+      {"name": "Voucher1", "image": "/image_04.jpg", "description": "Some short notes" },
+      {"name": "Voucher2", "image": "/image_04.jpg", "description": "Some short notes" },
+      {"name": "Voucher3", "image": "/image_03.jpg", "description": "Some short notes" },
+      {"name": "Voucher4", "image": "/image_02.jpeg", "description": "Some short notes" },
+      {"name": "Voucher5", "image": "/image_01.png", "description": "Some short notes" }
+    ]
+  }
